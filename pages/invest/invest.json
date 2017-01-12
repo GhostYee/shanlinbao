@@ -1,7 +1,5 @@
 {
-    "backgroundTextStyle":"#b1b1b1",
-    "enablePullDownRefresh":"true",
-    "navigationBarBackgroundColor": "#ff7460",
+ 
     "navigationBarTitleText": "投资",
-    "navigationBarTextStyle":"white"
+    "enablePullDownRefresh":true
 }

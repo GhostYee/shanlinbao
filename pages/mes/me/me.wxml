@@ -1,6 +1,6 @@
 <view>
     <view class="line_top12" />
-  <view class="me_clounme">
+  <view class="me_clounme"  bindtap="gotsafecenter">
     <view  style="display: flex;align-items: center;flex-direction:row;">
       <image src="/images/icon_defult_image.png" class="me_imges" />
       <view style="display: flex;flex-direction:column;justify-content:flex-start;text-align:left">

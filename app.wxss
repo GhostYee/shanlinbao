@@ -31,8 +31,8 @@
 }
 
 .img_rigth_row {
-  height: 18px;
-  width: 12px;
+  height: 14px;
+  width: 10px;
   vertical-align: middle;
   margin-right: 12px;
   margin-left: 4px;

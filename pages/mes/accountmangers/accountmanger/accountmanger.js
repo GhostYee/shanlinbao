@@ -1,4 +1,4 @@
-// pages/mes/safecenters/safecenter/safecenter.js
+// pages/mes/accountmangers/accountmanger/accountmanger.js
 Page({
   data:{},
   onLoad:function(options){

@@ -1,11 +1,11 @@
 {
   "pages": [
-    "pages/mes/safecenters/safecenter/safecenter",
+    "pages/invest/invest",
     "pages/mes/me/me",
+    "pages/mes/accountmangers/accountmanger/accountmanger",
     "pages/mes/mores/more/more",
     "pages/mes/mores/suggest/suggest",
     "pages/main/main",
-    "pages/invest/invest",
     "pages/propertys/property/property",
     "pages/logs/logs",
     "pages/login/login"

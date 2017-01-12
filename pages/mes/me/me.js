@@ -19,29 +19,16 @@ Page({
   gotomore:function(event){
     wx.navigateTo({
       url: '../mores/more/more',
-      success: function(res){
-        // success
-      },
-      fail: function() {
-        // fail
-      },
-      complete: function() {
-        // complete
-      }
     })
   },
   gotoproperty:function(event){
     wx.redirectTo({
       url: '../../property/property',
-      success: function(res){
-        // success
-      },
-      fail: function() {
-        // fail
-      },
-      complete: function() {
-        // complete
-      }
+    })
+  },
+  gotsafecenter:function(event){
+    wx.navigateTo({
+      url: '../accountmangers/accountmanger/accountmanger',
     })
   }
 
