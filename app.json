@@ -1,14 +1,14 @@
 {
   "pages": [
     "pages/main/main",
+    "pages/login/login",
     "pages/propertys/property/property",
     "pages/invest/invest",
     "pages/mes/me/me",
     "pages/mes/accountmangers/accountmanger/accountmanger",
     "pages/mes/mores/more/more",
     "pages/mes/mores/suggest/suggest",
-    "pages/logs/logs",
-    "pages/login/login"
+    "pages/logs/logs"
   ],
   "window": {
     "backgroundTextStyle": "#b1b1b1",

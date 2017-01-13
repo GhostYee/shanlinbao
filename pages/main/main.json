@@ -1,7 +1,3 @@
 {
-    "backgroundTextStyle":"#b1b1b1",
-    "enablePullDownRefresh":"true",
-    "navigationBarBackgroundColor": "#ff7460",
-    "navigationBarTitleText": "精选",
-    "navigationBarTextStyle":"white"
+    "navigationBarTitleText": "精选"
 }
