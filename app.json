@@ -1,12 +1,12 @@
 {
   "pages": [
+    "pages/main/main",
     "pages/propertys/property/property",
     "pages/invest/invest",
     "pages/mes/me/me",
     "pages/mes/accountmangers/accountmanger/accountmanger",
     "pages/mes/mores/more/more",
     "pages/mes/mores/suggest/suggest",
-    "pages/main/main",
     "pages/logs/logs",
     "pages/login/login"
   ],

@@ -13,6 +13,7 @@
     border-radius: 10px;
     border:1px solid;
     border-color:#d4d4d4; 
+    
 }
 .suggest_button{
     margin-left: 12px;

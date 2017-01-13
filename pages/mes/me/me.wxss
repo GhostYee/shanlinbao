@@ -8,7 +8,9 @@
     
 }
 .me_clounme .me_icon{
+
         height: 46px;
+
 }
 .me_imges{
     height: 24px;

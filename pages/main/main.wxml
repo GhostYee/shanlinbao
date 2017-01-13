@@ -1,0 +1,25 @@
+<view style="width:100%">
+  <swiper autoplay="true" circular="true" style="width:100%">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+        <image src="{{item}}" class="slide-image" style="width:100%" />
+      </swiper-item>
+    </block>
+  </swiper>
+  <view style=" display:flex;justify-content: space-between;padding-top:22rpx;padding-bottom:22rpx;align-items center;padding-left:30rpx; padding-right:30rpx">
+    <view style=" display: flex;justify-content:  flex-start;">
+      <image src="/images/icon_mian_register.png/" style="width:70rpx;height:70rpx"></image>
+      <view style="display: flex;justify-content: flex-start;flex-direction:column;margin-left:26rpx">
+        <text style="font-size:26rpx;color:#666666">注册领领1660元现金红包</text>
+        <view style="display:flex;justify-content:flex-start;align-items: center;margin-top:12rpx;">
+          <text style="font-size:26rpx;color:#666666">再得得1000元体验金</text>
+          <image src="/images/icon_mian_top_login_tip.png" style="width:40rpx;height:40rpx;margin-left:8rpx;"></image>
+        </view>
+      </view>
+    </view>
+    <view style=" display: flex;justify-content: space-between;align-items: right">
+      <button style=" display: flex;width:200rpx;height:66rpx;font-size:24rpx;color:#ff7460;border-color: #ff7460;border:1rpx solid;text-align:center;">注册领取红包</button>
+    </view>
+  </view>
+  <view class="line" />
+</view>
