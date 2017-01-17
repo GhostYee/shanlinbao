@@ -9,6 +9,6 @@
   border-radius: 16rpx;
   display: flex;
  flex-direction: column;
- 
+
 
 }

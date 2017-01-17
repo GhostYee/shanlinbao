@@ -6,9 +6,9 @@
       </swiper-item>
     </block>
   </swiper>
-  <view style=" display:flex;justify-content: space-between;margin-top:22rpx;align-items center;padding-left:30rpx; padding-right:30rpx">
-    <view style=" display: flex;justify-content:  flex-start;margin-top:32rpx;">
-      <image src="/images/icon_mian_register.png/" style="width:70rpx;height:70rpx"></image>
+  <view style=" display:flex;justify-content: space-between;padding-top:22rpx;padding-bottom:22rpx;align-items center;padding-left:30rpx; padding-right:30rpx;text-align: center;flex-direction:row;">
+    <view style=" display: flex;justify-content:  flex-start;">
+      <image src="/images/icon_mian_register.png" style="width:70rpx;height:70rpx"></image>
       <view style="display: flex;justify-content: flex-start;flex-direction:column;margin-left:26rpx">
         <text style="font-size:26rpx;color:#666666">注册领领1660元现金红包</text>
         <view style="display:flex;justify-content:flex-start;align-items: center;margin-top:12rpx;">
