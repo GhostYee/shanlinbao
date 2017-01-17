@@ -1,14 +1,17 @@
 /* pages/me/me.wxss */
+page {
+  background: #f0f0f0;
+}
 .me_clounme{
     height: 38px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: white
     
 }
 .me_clounme .me_icon{
-
         height: 46px;
 
 }

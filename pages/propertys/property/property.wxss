@@ -1,3 +1,6 @@
+page {
+  background: #f0f0f0;
+}
 .property_head_view{
     background: #ff7460 ;
     display: flex;
@@ -28,6 +31,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: white
     
 }
 .propertyclounme .me_icon{

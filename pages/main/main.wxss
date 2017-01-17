@@ -1,5 +1,7 @@
 /* pages/main/main.wxss */
-
+page{
+  background:#f0f0f0 
+}
 .view_main_content {
   border: #e4e4e4 1rpx solid;
   text-align: center;
@@ -9,6 +11,6 @@
   border-radius: 16rpx;
   display: flex;
  flex-direction: column;
-
-
+ background: white 
+ 
 }

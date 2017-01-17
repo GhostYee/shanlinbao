@@ -1,4 +1,4 @@
-<view style="width:100%">
+<view style="width:100%;">
   <swiper autoplay="true" circular="true" style="width:100%">
     <block wx:for="{{imgUrls}}">
       <swiper-item>
@@ -6,7 +6,7 @@
       </swiper-item>
     </block>
   </swiper>
-  <view style=" display:flex;justify-content: space-between;padding-top:22rpx;padding-bottom:22rpx;align-items center;padding-left:30rpx; padding-right:30rpx;text-align: center;flex-direction:row;">
+  <view style=" display:flex;justify-content: space-between;padding-top:22rpx;padding-bottom:22rpx;align-items center;padding-left:30rpx; padding-right:30rpx;text-align: center;flex-direction:row; background: white ">
     <view style=" display: flex;justify-content:  flex-start;">
       <image src="/images/icon_mian_register.png" style="width:70rpx;height:70rpx"></image>
       <view style="display: flex;justify-content: flex-start;flex-direction:column;margin-left:26rpx">
