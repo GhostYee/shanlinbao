@@ -1,10 +1,14 @@
 /* pages/me/me.wxss */
+page {
+  background: #f0f0f0;
+}
 .account_manger_clounme{
     height: 38px;
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    background: white
     
 }
 
